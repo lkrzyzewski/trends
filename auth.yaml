@@ -1,0 +1,14 @@
+cookie:
+  expiry_days: 30
+  key: au9phuJaeyieQu7vu7Phus8g
+  name: zoo3uP8o_trends_cookie
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: "Admin"
+      password: admin
+preauthorized:
+  emails: null
